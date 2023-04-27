@@ -1,0 +1,17 @@
+{
+    "imageURL": "https://static.wikia.nocookie.net/multiversus/images/6/65/Batman_Profile_Icon.png/revision/latest?cb=20220802200801",
+    "name": "Batman",
+    "bio": "Dark Knight",
+    "phone": 7894561230,
+    "email": "batman@gamil.com",
+    "password": "batman123"
+}
+
+{
+    "imageURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a7854c4-475f-4e0a-b50a-10385bd1be03/dffabbt-805505b5-7668-4e4f-99f1-df00845319dd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhNzg1NGM0LTQ3NWYtNGUwYS1iNTBhLTEwMzg1YmQxYmUwM1wvZGZmYWJidC04MDU1MDViNS03NjY4LTRlNGYtOTlmMS1kZjAwODQ1MzE5ZGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oEARkOYSN0Khj0yexEIfr7UtEmULSnqZ-tzQ3stnR48",
+    "name": "Flash",
+    "bio": "Speed",
+    "phone": 9876543210,
+    "email": "flash@gmail.com",
+    "password": "flash123"
+}
